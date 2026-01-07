@@ -2,6 +2,8 @@
 
 A professional, real-time **Solana Memecoin Trading Bot** and **Market Scanner** built with Python and Streamlit. This application allows traders to paper-trade Solana tokens using advanced "Sniper" logic, visualizing market data and trade performance in a highly responsive terminal interface.
 
+---
+
 ## 📖 What is this?
 
 The **Solana Sniper Terminal** is an automated trading tool designed to scan the Solana blockchain for newly launched tokens. It uses the DexScreener API to fetch real-time data and evaluates tokens based on strict criteria (Liquidity, Buy Pressure, Volume).
